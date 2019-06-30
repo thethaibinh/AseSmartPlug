@@ -1,2 +1,2 @@
 # ASE Smart Plug
-binhnguyen.xyz/ase-smart-plug-prototype/
+thaibinhnguyen.xyz/ase-smart-plug-prototype/
